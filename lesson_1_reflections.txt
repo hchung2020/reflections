@@ -1,0 +1,40 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+It clearly marked which line was different, so it was easier to spot the error
+in the code as we could easily see the differences. We just had to find the
+unintentional line of code.
+_______________________________________________________________________________
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+It allows you to look at different versions without manually saving each draft.
+So, when looking for an error, we can just use these histories to compare to the
+new one.
+_______________________________________________________________________________
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+Docs does?
+
+The pros would be that there would be multiple copies that you could go back to;
+however, you wouldn't be able to control at which point you want a commit. So,
+there would be unnecessary commits but not the ones you might actually want.
+_______________________________________________________________________________
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Git allows you to combine multiple codes such as html and css into one commit as
+both of these could affect what you have. However, Google Docs don't really
+require a collection of files in one save.
+_______________________________________________________________________________
+How can you use the commands git log and git diff to view the history of files?
+
+Git log gives you the different commits that were made to that file while git
+diff compares the two files in order to show what changed.
+_______________________________________________________________________________
+How might using version control make you more confident to make changes that
+could break something?
+
+You could change the code as you would know that you can go back to whatever
+state the code was in before you changed it.
+_______________________________________________________________________________
