@@ -1,0 +1,26 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+If you initialize a repository, a hidden repository is formed which tracks all
+of the history and metadata of the file. You need to do it so that you have a
+place to track all of your work and create commits.
+________________________________________________________________________________
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+The staging area combines all the files that needs to be committed so unnecessary
+commits aren't made combining large amounts of data. It offers a separate area
+to collect all the files you want.
+________________________________________________________________________________
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+You can use git status to check which files are in the staging area and then
+decide whether the files you have are logical. Also, you could move each file to
+the staging area whenever you logically change it.
+________________________________________________________________________________
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+If you want to create an experimental line of code or add another version to the
+code without changing the original, branches would be helpful. It allows you to
+make changes to the code without affecting the main version.
