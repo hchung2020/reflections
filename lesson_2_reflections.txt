@@ -24,3 +24,9 @@ organized? How would branches help?
 If you want to create an experimental line of code or add another version to the
 code without changing the original, branches would be helpful. It allows you to
 make changes to the code without affecting the main version.
+________________________________________________________________________________
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help you see which commits are reachable where as some are not. Also,
+it helps you see where each branch leads off from, and therefore make it easy to
+see which commits would be included with each one. 
