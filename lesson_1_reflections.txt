@@ -38,3 +38,8 @@ could break something?
 You could change the code as you would know that you can go back to whatever
 state the code was in before you changed it.
 _______________________________________________________________________________
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+Git's manual merging allows you to fix the bugs that appear when both you and
+someone else work on the same thing so that you can have both these changes.
