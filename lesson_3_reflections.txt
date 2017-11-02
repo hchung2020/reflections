@@ -17,3 +17,18 @@ Forks are in between different github accounts in which you can copy over what
 another person has and work on it without messing up the original. Clones copy
 what's on github into your local device(your computer). Branches are in between
 different versions of the file on your local device.
+________________________________________________________________________________
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+You can work on the code without having to fix as many merge conflicts in the
+future.
+________________________________________________________________________________
+How would you collaborate without using Git or GitHub? What would be easier, and
+what would be harder?
+
+You could separate each section that needs to be worked on and send it over
+when finished writing the code for that part. It would be harder to work on
+things separately without having direct contact because it would be difficult to
+I don't really know how it would be easier as Github really helps a lot for
+collaboration.
