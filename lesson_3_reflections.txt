@@ -32,3 +32,12 @@ when finished writing the code for that part. It would be harder to work on
 things separately without having direct contact because it would be difficult to
 I don't really know how it would be easier as Github really helps a lot for
 collaboration.
+________________________________________________________________________________
+When would you want to make changes in a separate branch rather than directly in
+master? What benefits does each approach have?
+
+You might want to make changes in another branch because you might not know if
+you want to incorporate the code you have into the actual master branch. You
+could just be testing out something or you might not be done and not want to
+mess up what the main master is. However, working directly on the master might
+also be helpful because you don't need to merge in the future. 
